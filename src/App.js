@@ -6,13 +6,11 @@ import Main from './containers/Main'
 
 function App() {
   return (
-    <div className="App">
-     <StylesProvider injectFirst>
-       <CssBaseline/>
-       <GlobalStyle/>
-       <Main/>
-     </StylesProvider>
-    </div>
+    <StylesProvider injectFirst>
+      <CssBaseline />
+      <GlobalStyle />
+      <Main />
+    </StylesProvider>
   );
 }
 
