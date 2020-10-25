@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 ## Preview
 
-![pwa-covid (1)](https://user-images.githubusercontent.com/32379195/97120496-12510e80-16f6-11eb-8bee-f3f50aa8589b.gif)
+![pwa-covid](https://user-images.githubusercontent.com/32379195/97120800-97d5be00-16f8-11eb-8c9b-2d49bccb35c1.gif)
 
 Accessing the application by cell phone, the PWA option is available:
 https://covid-19-iota.vercel.app/
